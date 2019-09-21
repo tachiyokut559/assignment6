@@ -1,0 +1,36 @@
+* {
+    margin: 0em;
+    padding: 0em;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+}
+
+p {
+    background: rgba(255, 84, 104, 0.3);
+    border: 2px solid rgb(255, 84, 104);
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    background: rgb(255, 84, 104, 0.3);
+    border: 2px solid white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    background: rgb(30, 125, 55);
+    border: 4px double;
+}
+
+html {
+    background: rgb(9, 121, 111);
+    background: linear-gradient(90deg, rgba(9, 121, 111, 1) 56%, rgba(0, 36, 35, 1) 76%, rgba(0, 255, 245, 1) 100%);
+}
+
+footer {
+    font-size: 65%;
+}
